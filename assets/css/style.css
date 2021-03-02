@@ -19,7 +19,7 @@ body::before {
     background-position: center, center;
   background-size: cover;
   left: 0;
-  right: 0;
+  right: 100%;
   top: 0;
   height: 100vh;
   z-index: -1;
